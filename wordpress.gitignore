@@ -52,7 +52,6 @@ Thumbs.db
 *.o
 *.so
 
-cache*
 
 # ignore all files and folders on wp-content
 wp-content/*
